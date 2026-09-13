@@ -2,7 +2,7 @@
 
 Dashboard Executive Summary copied and pasted from Amazon Quick dashboard.
 
-## **Marketing Funnel**
+## Marketing Funnel
 
 The sheet provides a comprehensive overview of marketing campaign performance, tracking 2,240 leads across multiple campaigns with a total spend of $12.36M against $1.13M in attributed revenue.
 
@@ -14,7 +14,7 @@ The sheet provides a comprehensive overview of marketing campaign performance, t
 
 * The Lead-to-Closed Won Conversion rate is 18.39%, with Qualified Lead representing the largest funnel stage at 848 records out of 2,240 total.
 
-## **Sales Pipeline**
+## Sales Pipeline
 
 The sheet provides a comprehensive sales performance overview, tracking 499 total deals with metrics on revenue, win rates, deal closure timelines, and loss analysis across customer segments and products.
 
@@ -26,7 +26,7 @@ The sheet provides a comprehensive sales performance overview, tracking 499 tota
 
 * Average days to close surged 74.89%, rising from 51.52 to 90.11 days between Jan 1, 2024 and Jan 1, 2025, indicating a concerning slowdown in deal velocity.
 
-## **Customer Health**
+## Customer Health
 
 The sheet provides a comprehensive customer support health dashboard, tracking 3,000 tickets across key metrics including resolution time, sentiment, risk accounts, and product area workload.
 
