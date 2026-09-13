@@ -72,6 +72,9 @@ The CRM and marketing summaries each contain one row per account. Joining those 
 
 All four datasets were saved to SPICE.
 
+**Amazon Quick Datasets Tab**
+![CRM deals dataset stored in SPICE](images/datasets-saved-to-spice.png)
+
 **CRM Deals Dataset**
 ![CRM deals dataset stored in SPICE](images/image-9.png)
 
