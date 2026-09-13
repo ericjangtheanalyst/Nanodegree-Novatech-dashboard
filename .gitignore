@@ -1,0 +1,10 @@
+# Local review and dependency files
+tmp/
+node_modules/
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+
+# Notebook checkpoints
+.ipynb_checkpoints/
