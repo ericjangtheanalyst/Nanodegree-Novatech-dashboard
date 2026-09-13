@@ -15,7 +15,7 @@ I used the **Change data types** step to correct fields that were inferred incor
 ![Marketing field type corrections](images/image-2.png)
 
 **Customer Health Dataset**
-![Support-ticket field type corrections](images/image.png)
+![Support-ticket field type corrections](images/customer-health-dataset.png)
 
 ## 2. Calculated fields
 
