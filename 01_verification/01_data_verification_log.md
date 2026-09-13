@@ -31,13 +31,13 @@
 - **Fact checked:** Number of rows with missing `annual_income` and the overall `campaign_date` range.
 - **Q response:** 24 missing values and a date range from 2023-01-01 to 2025-01-31.
 
-![Amazon Q response showing 24 missing annual-income values and the campaign date range](image.png)
+![Amazon Q response showing 24 missing annual-income values and the campaign date range](images/image.png)
 
 - **Dashboard evidence:** The KPI confirms 24 missing values. The monthly table displays all campaign dates and the missing-value count for each date.
 
-![Marketing data-quality KPIs showing 2,240 rows and 24 missing annual-income values](image-1.png)
-![Monthly missing-income table at the start of the campaign date range](image-2.png)
-![Monthly missing-income table showing a date with one missing value](image-3.png)
+![Marketing data-quality KPIs showing 2,240 rows and 24 missing annual-income values](images/image-1.png)
+![Monthly missing-income table at the start of the campaign date range](images/image-2.png)
+![Monthly missing-income table showing a date with one missing value](images/image-3.png)
 
 - **Conclusion:** Partially consistent. The missing-value count matches, but the dashboard screenshots do not independently validate the date range of the missing-income subset because the table includes dates with and without missing values.
 
@@ -45,12 +45,12 @@
 
 **`novatech_crm_deals.csv`**
 
-![Imported CRM deals dataset in Amazon Quick](image-4.png)
+![Imported CRM deals dataset in Amazon Quick](images/image-4.png)
 
 **`novatech_marketing_campaigns.csv`**
 
-![Imported marketing campaigns dataset in Amazon Quick](image-5.png)
+![Imported marketing campaigns dataset in Amazon Quick](images/image-5.png)
 
 **`novatech_support_tickets.csv`**
 
-![Imported support tickets dataset in Amazon Quick](image-6.png)
+![Imported support tickets dataset in Amazon Quick](images/image-6.png)
