@@ -24,7 +24,7 @@ Start with the [NovaTech Revenue Intelligence Dashboard executive report](<06_re
 | View | Business purpose | Annotated output | Dashboard-only output |
 |---|---|---|---|
 | Marketing Funnel | Evaluate campaign spend, response, conversion, and attributed revenue | [Marketing Funnel with insight](03_dashboard/03_dashboard_pages_with_annotation/NovaTech_Marketing_Funnel_annotation.pdf) | [Marketing Funnel](<03_dashboard/03_dashboard_pages_no_annotation/NovaTech_Marketing%20Funnel.pdf>) |
-| Sales Pipeline | Monitor deal outcomes, won revenue, win rates, and days to close | [Sales Pipeline with insight](03_dashboard/03_dashboard_pages_with_annotation/NovaTech_Sales_Pipeline_annodation.pdf) | [Sales Pipeline](<03_dashboard/03_dashboard_pages_no_annotation/NovaTech_Sales%20Pipeline.pdf>) |
+| Sales Pipeline | Monitor deal outcomes, won revenue, win rates, and days to close | [Sales Pipeline with insight](03_dashboard/03_dashboard_pages_with_annotation/NovaTech_Sales_Pipeline_annotation.pdf) | [Sales Pipeline](<03_dashboard/03_dashboard_pages_no_annotation/NovaTech_Sales%20Pipeline.pdf>) |
 | Customer Health | Review support demand, sentiment, severity, and account-level risk indicators | [Customer Health with insight](03_dashboard/03_dashboard_pages_with_annotation/NovaTech_Customer_Health_annotation.pdf) | [Customer Health](<03_dashboard/03_dashboard_pages_no_annotation/NovaTech_Customer%20Health.pdf>) |
 
 ## Key findings
@@ -43,7 +43,7 @@ These figures were cross-checked against the included CSV files. See [Analytical
 4. Built Marketing Funnel, Sales Pipeline, and Customer Health dashboard views and loaded the datasets into SPICE.
 5. Configured an Amazon Q topic, tested baseline and domain-specific questions, and compared Q's answers with dashboard visuals.
 
-Detailed evidence is available in the [verification log](01_verification/01_data_verification_log.md), [data-preparation log](02_data_preparation/02_data_transformation.md), [topic-configuration log](04_topic/04_topic.md), [Q exploration log](05_exploration/05_NovaTech_Q_Exploration_Log.md), [executive report](<06_report/Executive Report_ NovaTech Revenue Intelligence Dashboard.pdf>), and [dashboard executive summary text](06_report/06_dashboard_executive_summary_text.md).
+Detailed evidence is available in the [verification log](01_verification/01_data_verification_log.md), [data-preparation log](02_data_preparation/02_data_transformation.md), [dashboard configuration log](03_dashboard/03_dashboard.md), [topic-configuration log](04_topic/04_topic.md), [Q exploration log](05_exploration/05_NovaTech_Q_Exploration_Log.md), [executive report](<06_report/Executive Report_ NovaTech Revenue Intelligence Dashboard.pdf>), and [dashboard executive summary text](06_report/06_dashboard_executive_summary_text.md).
 
 ## Data
 
@@ -63,7 +63,7 @@ Field definitions and known data-quality conditions are documented in the [data 
 .
 |-- 01_verification/        Data checks and source-import evidence
 |-- 02_data_preparation/    Type corrections, calculated fields, joins, and SPICE evidence
-|-- 03_dashboard/           Annotated and dashboard-only PDF exports
+|-- 03_dashboard/           Dashboard configuration evidence and PDF exports
 |-- 04_topic/               Amazon Q topic configuration and before/after tests
 |-- 05_exploration/         Q exploration results and reflection
 |-- 06_report/              Executive report PDF and supporting summary text
